@@ -1,6 +1,6 @@
-# BIOL-8 — Human Anatomy and Physiology
+# BIOL-8 — Human Biology
 
-Course materials for **BIOL-8, Human Anatomy and Physiology** at College of the Redwoods (Spring 2026). Fifteen modules run from exploring life science through the respiratory system, with slides, labs, homework, practice tests, answer keys, and interactive review dashboards.
+Course materials for **BIOL-8: Human Biology** at College of the Redwoods (Spring 2026). Seventeen modules run from exploring life science through ecology and evolution, with lecture slides for Modules 01–15 plus labs, homework, practice tests, answer keys, and interactive review dashboards.
 
 Materials are provided as Markdown source alongside rendered PDF and DOCX, so they can be used as-is, edited, or rebuilt.
 
@@ -23,21 +23,24 @@ Materials are provided as Markdown source alongside rendered PDF and DOCX, so th
 | 13 | Pathogens |
 | 14 | Cardiovascular |
 | 15 | Respiratory |
+| 16 | Ecology |
+| 17 | Evolution |
 
 ## Repository layout
 
 | Path | Contents |
 |---|---|
 | `course/` | Syllabus and schedule (Markdown, DOCX, PDF) |
-| `slides/` | 15 lecture decks, one per module |
+| `slides/` | 15 lecture decks (Modules 01–15) |
 | `labs/` | 19 lab handouts (Markdown + PDF) |
-| `homework/` | 17 homework sets (Markdown + PDF) |
-| `practice_tests/` | Practice exams |
-| `module_keys/` | Answer keys |
-| `dashboards/` | Interactive HTML review dashboards |
+| `homework/` | 17 homework sets (Markdown, DOCX, PDF) |
+| `practice_tests/` | 12 practice exams, each with an answer key (Markdown + PDF) |
+| `module_keys/` | 17 module answer keys (Markdown, DOCX, PDF) |
+| `dashboards/` | 19 interactive HTML review dashboards |
 | `ALL_FILES/` | A flat mirror of the whole course, for bulk download |
+| `docs/` | Repository documentation and agent guide |
 
-458 files in total: 188 PDF, 160 Markdown, 72 DOCX, 38 HTML.
+462 files in total: 188 PDF, 164 Markdown, 72 DOCX, 38 HTML.
 
 ## Using this repository
 

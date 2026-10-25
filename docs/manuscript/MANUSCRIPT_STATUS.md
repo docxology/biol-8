@@ -2,9 +2,9 @@
 
 ## Repo type
 
-Course materials repository (BIOL-8 Human Anatomy and Physiology, College of
-the Redwoods, Spring 2026): fifteen modules of slides, labs, homework,
-practice tests, answer keys, and dashboards.
+Course materials repository (BIOL-8 Human Biology, College of the Redwoods,
+Spring 2026): seventeen modules of labs, homework, practice tests, answer
+keys, and dashboards, with lecture slides for Modules 01–15.
 
 ## Evidence checked
 

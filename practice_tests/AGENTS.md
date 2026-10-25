@@ -10,6 +10,5 @@ Practice tests and answer keys. The batch processor renders each `practice-test-
 
 ## Related
 
-- [../exams/AGENTS.md](../exams/AGENTS.md) — unit exams
-- [../AGENTS.md](../AGENTS.md) — full course map
-- [README.md](README.md) — short student-facing list
+- [../docs/AGENTS.md](../docs/AGENTS.md) — repository layout and docs policy
+- [../README.md](../README.md) — module table and artifact map

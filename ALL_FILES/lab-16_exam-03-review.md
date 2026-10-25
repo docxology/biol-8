@@ -10,7 +10,7 @@
 
 This lab is **practice** for the **skeletal, muscular, nervous, microbiology, and cardiopulmonary** material in **Modules 11–15**. It pulls together vocabulary, diagrams-in-words, and applied prompts so you can see what you know before the unit assessment.
 
-Optional: the exam **form** for this unit lives with other course exams ([`../exams/exam-03.md`](../exams/exam-03.md)). Use it for logistics (timing, instructions) your instructor confirms. **Answer keys** belong with instructional materials—build understanding from your notes and module files first.
+Optional: the exam **form** for this unit is distributed through Canvas with the other course exams. Use it for logistics (timing, instructions) your instructor confirms. **Answer keys** belong with instructional materials—build understanding from your notes and module files first.
 
 **How to use this lab**
 
