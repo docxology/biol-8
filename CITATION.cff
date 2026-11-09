@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "biol-8"
+authors:
+  - family-names: Friedman
+    given-names: Daniel Ari
+    orcid: "https://orcid.org/0000-0001-6232-9096"
+repository-code: "https://github.com/docxology/biol-8"
+abstract: "BIOL-8 Human Anatomy & Physiology course materials from College of the Redwoods — slides, labs, homework, practice tests, module keys, and progress dashboards organized per module, so instructors can fork a full semester of A&P teaching resources."
