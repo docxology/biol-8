@@ -50,7 +50,7 @@ Materials are provided as Markdown source alongside rendered PDF and DOCX, so th
 
 ## Reuse
 
-No license file is present in this repository. Please contact the author before redistributing or adapting these materials for another course.
+These materials are licensed under [CC BY-NC 4.0](LICENSE): you may share and adapt them for non-commercial use with attribution. Third-party material retains its own terms.
 
 ## Related
 
