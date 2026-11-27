@@ -1,26 +1,31 @@
-# BIOL-8 — documentation
+# BIOL-8 documentation
 
-Course materials for **BIOL-8: Human Biology** at College of the
-Redwoods (Spring 2026). Seventeen modules from exploring life science
-through ecology and evolution (module table in the root `README.md`).
+The materials cover the Spring 2026 Human Biology offering at College of the
+Redwoods. Start with the [syllabus](../course/BIOL-8_Spring-2026_Syllabus.md)
+and [schedule](../course/Schedule.md).
 
-## Repository map
+## Find and reuse the materials
 
-| Path | Contents |
-|---|---|
-| `course/` | Syllabus and schedule (Markdown, DOCX, PDF) |
-| `slides/`, `labs/`, `homework/`, `practice_tests/`, `module_keys/` | Teaching artifacts by type |
-| `dashboards/` | Interactive review dashboards |
-| `ALL_FILES/` | Combined materials listing |
+| Directory | Contents |
+| --- | --- |
+| [Course](../course/) | Syllabus and schedule in Markdown, PDF, and DOCX |
+| [Slides](../slides/) | Lecture PDFs |
+| [Labs](../labs/) | Handouts in Markdown and PDF |
+| [Homework](../homework/) | Questions in Markdown, PDF, and DOCX |
+| [Practice tests](../practice_tests/) | Practice exams and answer keys in Markdown and PDF |
+| [Module keys](../module_keys/) | Study material in Markdown, PDF, and DOCX |
+| [Dashboards](../dashboards/) | Local HTML review pages |
+| [Flat distribution](../ALL_FILES/) | Teaching files in a single directory |
 
-## How to work here
+Use the descriptive filenames within each directory to locate a module.
+Consult the schedule for the teaching order. Keep answer keys separate when
+exporting a student packet. The [resource manuscript](manuscript/README.md)
+records the measured file coverage and distribution integrity.
 
-The root `README.md` is the entry point; it documents each module and where
-its artifacts live. Markdown source sits next to each rendered PDF/DOCX in
-`course/`, `labs/`, `homework/`, `practice_tests/`, and `module_keys/`, so
-materials can be used as-is or rebuilt from `ALL_FILES/` mirrors.
+When adapting an item, prepare its available delivery formats from the same
+edited text. Keep the original module identifier and verify that matching
+filenames still resolve. The flat directory can then be refreshed from its
+source counterparts. License terms and attribution travel with reused materials.
+[License](../LICENSE) · [Citation](../CITATION.cff)
 
-## Status
-
-Teaching-materials repository. See `docs/manuscript/MANUSCRIPT_STATUS.md` for
-why no publication-track manuscript applies.
+[Maintenance records](roadmap.md) · [General Biology course](https://github.com/docxology/biol-1)

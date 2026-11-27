@@ -1,58 +1,11 @@
-# BIOL-8 — Human Biology
+# BIOL-8 Human Biology
 
-Course materials for **BIOL-8: Human Biology** at College of the Redwoods (Spring 2026). Seventeen modules run from exploring life science through ecology and evolution, with lecture slides for Modules 01–15 plus labs, homework, practice tests, answer keys, and interactive review dashboards.
+Teaching materials for the Spring 2026 BIOL-8 offering at College of the
+Redwoods. The collection includes lecture slides, labs, homework, practice
+exams, answer keys, and review dashboards.
 
-Materials are provided as Markdown source alongside rendered PDF and DOCX, so they can be used as-is, edited, or rebuilt.
+- [Find materials and reuse guidance](docs/README.md).
+- [Read the syllabus](course/BIOL-8_Spring-2026_Syllabus.md) and [schedule](course/Schedule.md).
+- [Reproduce the course-resource manuscript](docs/manuscript/README.md).
 
-## Modules
-
-| # | Module |
-|---|---|
-| 01 | Exploring Life Science |
-| 02 | Chemistry of Life |
-| 03 | Biomolecules |
-| 04 | Cellular Function |
-| 05 | Membranes |
-| 06 | Metabolism |
-| 07 | Mitosis |
-| 08 | Meiosis |
-| 09 | Inheritance |
-| 10 | Tissues |
-| 11 | Skeletal |
-| 12 | Muscles |
-| 13 | Pathogens |
-| 14 | Cardiovascular |
-| 15 | Respiratory |
-| 16 | Ecology |
-| 17 | Evolution |
-
-## Repository layout
-
-| Path | Contents |
-|---|---|
-| `course/` | Syllabus and schedule (Markdown, DOCX, PDF) |
-| `slides/` | 15 lecture decks (Modules 01–15) |
-| `labs/` | 19 lab handouts (Markdown + PDF) |
-| `homework/` | 17 homework sets (Markdown, DOCX, PDF) |
-| `practice_tests/` | 12 practice exams, each with an answer key (Markdown + PDF) |
-| `module_keys/` | 17 module answer keys (Markdown, DOCX, PDF) |
-| `dashboards/` | 19 interactive HTML review dashboards |
-| `ALL_FILES/` | A flat mirror of the whole course, for bulk download |
-| `docs/` | Repository documentation and agent guide |
-
-462 files in total: 188 PDF, 164 Markdown, 72 DOCX, 38 HTML.
-
-## Using this repository
-
-**Students** — begin with `course/BIOL-8_Spring-2026_Syllabus.md` and `course/Schedule.md`, then follow the modules in order. The `dashboards/` pages are self-check review tools; open the `.html` files in a browser.
-
-**Instructors** — `ALL_FILES/` is the easiest path into an LMS. Everything with a `.md` source can be edited and re-rendered rather than reworked from PDF.
-
-## Reuse
-
-These materials are licensed under [CC BY-NC 4.0](LICENSE): you may share and adapt them for non-commercial use with attribution. Third-party material retains its own terms.
-
-## Related
-
-- [`biol-1`](https://github.com/docxology/biol-1) — General Biology, same structure
-- [`biology_textbook`](https://github.com/docxology/biology_textbook) — an open, generatively-built introductory biology textbook (CC BY 4.0)
+[CC BY-NC 4.0](LICENSE) · [Citation](CITATION.cff)
