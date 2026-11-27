@@ -1,0 +1,19 @@
+paper:
+  title: "Documenting the BIOL-8 Human Biology course resource collection"
+  subtitle: "An inventory and distribution integrity check"
+  version: "1.0.0"
+authors:
+  - name: BIOL-8 Contributors
+publication:
+  github_repository: docxology/biol-8
+  repository_url: https://github.com/docxology/biol-8
+metadata:
+  license: CC-BY-NC-4.0
+  language: en
+render:
+  formats:
+    pdf: true
+    html: true
+    slides: false
+    docx: false
+    epub: false
