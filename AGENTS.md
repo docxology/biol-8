@@ -7,4 +7,7 @@ the provided PDF and DOCX versions where those formats exist and check them
 against its source.
 
 The [course-resource manuscript](docs/manuscript/README.md) derives its counts
-from the committed Git tree. It can be rebuilt without opening course payloads.
+from the committed Git tree. It can be rebuilt without opening course payloads. Use that inventory check
+when comparing the organized directories with the [flat distribution](ALL_FILES/).
+Treat matching object IDs as evidence of identical bytes within the audited
+tree. Format and content review remains a separate check.
